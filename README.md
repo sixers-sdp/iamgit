@@ -19,7 +19,7 @@
   
   - [ ] Laura
   
-  - [ ] Songbo
+  - [:) ] Songbo
   
   - [ ] Tom
 
