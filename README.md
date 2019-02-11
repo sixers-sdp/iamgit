@@ -7,7 +7,7 @@
 
 - Tick yourself off in the list below:
 
-  - [ ] Martin
+  - [x] Martin
   
   - [ ] Benji
   
