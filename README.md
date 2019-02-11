@@ -3,7 +3,7 @@
 # Task 1
 
 - Clone this repository: ``git clone git@github.com:sixers-sdp/iamgit.git``
-- Create a new branch: ``git checkout -b <my_name>`
+- Create a new branch: ``git checkout -b <my_name>``
 
 - Tick yourself off in the list below:
 
