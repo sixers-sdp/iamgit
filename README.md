@@ -11,7 +11,7 @@
   
   - [ ] Benji
   
-  - [+] Daniel
+  - [X] Daniel
   
   - [ ] Hemang
   
